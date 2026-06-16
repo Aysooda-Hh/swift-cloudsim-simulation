@@ -1,0 +1,21 @@
+SwiftLikeSimulation Summary
+====================================
+
+BASELINE:
+  Number of Cloudlets: 20
+  Total CPU Time: 2889.9780
+  Average Finish Time: 144.5089
+  Makespan: 220.0000
+  Throughput: 0.090905
+
+SWIFT_LIKE:
+  Number of Cloudlets: 20
+  Total CPU Time: 1905.8208
+  Average Finish Time: 95.3010
+  Makespan: 140.0000
+  Throughput: 0.142847
+
+IMPROVEMENTS:
+  Average Finish Time reduction: 34.05%
+  Makespan reduction: 36.36%
+  Throughput increase: 57.14%

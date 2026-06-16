@@ -1,0 +1,3 @@
+Scenario,NumberOfCloudlets,TotalCPUTime,AverageFinishTime,Makespan,Throughput
+BASELINE,20,2889.9780,144.5089,220.0000,0.090905
+SWIFT_LIKE,20,1905.8208,95.3010,140.0000,0.142847
